@@ -1,19 +1,19 @@
 # PHP Final Project
 Findlay Hilchie &amp; Christian Hapgood
 
-User Authentication
+User Auth
 ![Screenshot 1](ScreenShots/screen1.jpg)
 
-Add, edit, and organize content areas
+Add, edit, and organize areas
 ![Screenshot 2](ScreenShots/screen2.jpg)
 
 Add, edit and organize pages
 ![Screenshot 3](ScreenShots/screen3.jpg)
 
-Create or edit users as an administrator
+Create or edit users as an admin
 ![Screenshot 4](ScreenShots/screen4.jpg)
 
-Create or edit users as an administrator
+Create or edit users as an admin
 ![Screenshot 5](ScreenShots/screen5.jpg)
 
 Create or edit articles or posts as an editor or author
@@ -25,5 +25,5 @@ Create or edit content areas as an editor or author
 Create custom CSS templates for each content area or the page
 ![Screenshot 8](ScreenShots/screen8.jpg)
 
-Full CRUD capabilities
+Full CRUD
 ![Screenshot 9](ScreenShots/screen9.jpg)
